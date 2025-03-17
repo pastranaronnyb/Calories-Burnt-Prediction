@@ -6,3 +6,4 @@ jinja2
 pickle-mixin
 xgboost
 seaborn
+python-multipart
